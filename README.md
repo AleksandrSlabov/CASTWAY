@@ -1,0 +1,1 @@
+This site was written as an educational one, the layout was taken for free from figma, in the code you can see adaptive layout, small logic in java script such as slider, form submission , working with buttons , closing the form after it is submitted.
